@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilker1422)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilker1422)](https://github.com/anuraghazra/github-readme-stats" alt="">
 </p>
 
 [![Top Langs](https://mz-github-stats.vercel.app/api?username=Bilker1422&show_icons=true&hide_border=true)
