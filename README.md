@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilker1422" alt="">
 </p>
-
-[![Top Langs](https://mz-github-stats.vercel.app/api?username=Bilker1422&show_icons=true&hide_border=true)
+<p align="center"> 
+  <img src="https://mz-github-stats.vercel.app/api?username=Bilker1422&show_icons=true&hide_border=true" alt="">
+</p>
